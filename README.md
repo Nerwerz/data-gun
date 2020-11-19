@@ -1,4 +1,3 @@
-THIS PROJECT DOESNT HAVE ANYTHING TO DO WITH POLITICS
 
 this project visualizes deaths and injuries which were committed by people with guns during 2013 - 2018 in USA
 
